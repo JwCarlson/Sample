@@ -1,15 +1,15 @@
-Example 3: Edit the README.md file and paste the sample markdown document into the file.
+* Data Scientist's Toolbox
 
+* R Programming-
 
-1
-2
-3
-4
-5
-6
-$ nano README.md
-$ git add -A .
-$ git commit -m "added content"
-[master 8fd8eb8] added content
-1 file changed, 41 insertions(+)
+* Exploratory Data Analysis
 
+* Getting and Cleaning Data+
+
+* Exploratory Data Analysis
+
+* Reproducible Research
+
+* Statistical Inference
+
+* Regression Models
